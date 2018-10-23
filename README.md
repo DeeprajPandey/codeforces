@@ -1,2 +1,2 @@
-# codeforces
-Solutions to CodeForces problemsets.
+# Playground
+Personal coding practice repository.
